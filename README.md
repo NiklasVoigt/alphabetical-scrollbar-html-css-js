@@ -1,4 +1,6 @@
-# 🔠 A responsive A–Z scrollbar UI component built with **HTML**, **CSS**, and **JavaScript** — inspired by the Android launcher. It allows users to:
+# 🔠 A responsive A–Z scrollbar UI component built with **HTML**, **CSS**, and **JavaScript** — inspired by the Android launcher. 
+
+It allows users to:
 
 - Navigate long lists using an **alphabet index**
 - **Slide over letters** to scroll instantly to sections
